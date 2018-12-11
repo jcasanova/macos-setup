@@ -2,6 +2,8 @@
 
 ## Générique
 
+### Airmail
+
 ### Google Chrome
 
 ### MacDown
@@ -11,6 +13,8 @@ Pour écrire du MarkDown depuis son Mac
 ### Slack
 
 ## Système
+
+### iStats Menus
 
 ### AppTrap
 
@@ -37,7 +41,11 @@ Puis établir les règles voulues pour le changement de profile au niveau de cha
 
 Pour installer des packages sur sa machine.
 
+### Dropbox
+
 ## Dév
+
+### Docker for Mac
 
 ### git (brew)
 
